@@ -5,7 +5,6 @@ Hi 👋, I’m Abderrahmane Brahim a **computer engineer** and a **front-end web
 
 <img src="./avatar-wall-right-cropped.png" align="right" />
 
-- 🌱 I’m currently learning *Typescript* and *Unit testing*.
 - 👨‍💻 Find more about my work at [abderrahmane-br.me](https://abderrahmane-br.me).
 - 📫 reach out to me at abderrahmanebrah@gmail.com.
 
