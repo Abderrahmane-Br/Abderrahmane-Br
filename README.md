@@ -5,7 +5,7 @@ Hi 👋, I’m Abderrahmane Brahim a **computer engineer** and a **front-end web
 
 <img src="./avatar-wall-right-cropped.png" align="right" />
 
-- 👨‍💻 Find more about my work at [abderrahmane-br]([https://abderrahmane-br.me](https://abderrahmane-br.github.io/)).
+- 👨‍💻 Find more about my work at [abderrahmane-br](https://abderrahmane-br.github.io/).
 - 📫 reach out to me at abderrahmanebrah@gmail.com.
 
 <!---
